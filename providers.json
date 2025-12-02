@@ -1,8 +1,112 @@
 [
   {
-    "provider": "Test Provider",
-    "cidr": "1.1.1.0/24",
-    "priority": 1,
-    "comment": "Example entry"
+    "provider": "Ya-cloud",
+    "cidr": "51.250.0.0/17",
+    "priority": 10
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "84.201.128.0/18",
+    "priority": 10
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "84.252.128.0/20",
+    "priority": 10
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "217.28.224.0/20",
+    "priority": 10
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "31.44.8.0/21",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "37.230.172.0/22",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "37.230.188.0/22",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "45.133.96.0/22",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "46.21.244.0/22",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "62.84.112.0/20",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "89.169.128.0/18",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "89.232.188.0/22",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "92.255.1.0/24",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "92.255.3.0/24",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "93.77.160.0/19",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "130.193.32.0/19",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "158.160.0.0/16",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "178.154.192.0/18",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "178.170.222.0/24",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "185.206.164.0/22",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "193.32.216.0/22",
+    "priority": 5
+  },
+  {
+    "provider": "Ya-cloud",
+    "cidr": "213.165.192.0/19",
+    "priority": 5
   }
 ]
